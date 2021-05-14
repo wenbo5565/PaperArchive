@@ -1,1 +1,3 @@
-# PaperArchive
+# Paper Archive
+
+## Price Optimization
