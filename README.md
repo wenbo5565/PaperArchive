@@ -2,5 +2,5 @@
 
 ### Price Optimization
 
-* [customized-regression-model-for-airbnb-dynamic-pricing](https://www.kdd.org/kdd2018/accepted-papers/view/customized-regression-model-for-airbnb-dynamic-pricing)
+* [Customized Regression Model for Airbnb Dynamic Pricing](https://www.kdd.org/kdd2018/accepted-papers/view/customized-regression-model-for-airbnb-dynamic-pricing)
 
